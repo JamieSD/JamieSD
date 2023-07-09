@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Jami-Lee Seekley
+- 👋 Hi, I’m Jamie-Lee Seekley
 - 👀 I’m interested in Software Development and Web Development
 - 🌱 I’m fimiliar with the following coding languages Java,Pyhton and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 You can reach me on my LinkedIn(https://www.linkedin.com/in/jamie-lee-seekley-227701202/)
 
 <!---
 JamieSD/JamieSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
