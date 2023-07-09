@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jamie-Lee Seekley
 - 👀 I’m interested in Software Development and Web Development
-- 🌱 I’m fimiliar with the following coding languages Java,Pyhton and JavaScript
+- 🌱 I’m familiar with the following coding languages Java,Pyhton and JavaScript
 - 📫 You can reach me on my LinkedIn(https://www.linkedin.com/in/jamie-lee-seekley-227701202/)
 
 <!---
